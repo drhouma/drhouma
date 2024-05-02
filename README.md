@@ -8,7 +8,7 @@
 
 <img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 
-<img align="left" alt="Qt" width="72px" style="margin-right:15px" src="https://blog.skillfactory.ru/wp-content/uploads/2022/02/20211220183943qt_logo-5024734.png" />
+<img align="left" alt="C" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" />
 
 <img align="left" alt="Bash" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
 
