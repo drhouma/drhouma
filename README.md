@@ -1,7 +1,5 @@
 ## Hello customer, my name is Degtyarev Andrey
 
-### I'm backend c++ developer
-
 ### I'm currently learning on machine learning skills
 
 ### Student in school 21
