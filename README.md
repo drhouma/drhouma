@@ -3,6 +3,7 @@
 ### I'm currently learning on machine learning skills
 
 ### Student in school 21
+Не заливал вузовские проекты на гит (они существуют, где то)
 
 <img align="left" alt="C++" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 
